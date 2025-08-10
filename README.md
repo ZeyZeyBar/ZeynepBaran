@@ -5,8 +5,8 @@
 I am a System Analyst and Software Developer with over 5 years of experience in software development, business process analysis, ERP systems, and SAP BI. Skilled in C#, .NET Core, and Vue.js, I am passionate about delivering efficient, scalable IT solutions.
 
 ## Education
-- **Master's Degree in Computer Engineering** (Non-thesis), [University Name], Turkey
-- **Bachelor's Degree in Computer Engineering**, [University Name], Turkey
+- **Master's Degree in Computer Engineering** (Non-thesis), [Yıldız Teknik Üniversitesi], Turkey
+- **Bachelor's Degree in Computer Engineering**, 3,62 - 4.0  [Nişantaşı Üniversitesi], Turkey
 
 ## Professional Experience
 
@@ -28,7 +28,7 @@ I am a System Analyst and Software Developer with over 5 years of experience in 
 - Business Process Analysis
 
 ## Let's Connect  
-- [LinkedIn](https://www.linkedin.com/in/zeynepbaran)  
+- [LinkedIn](https://www.linkedin.com/in/zeynep-baran-b7961a193/)  
 - Email: zbaran@outlook.com.tr
 
 # Hallo, ich bin Zeynep Baran 👋
@@ -36,8 +36,8 @@ I am a System Analyst and Software Developer with over 5 years of experience in 
 Ich bin Systemanalystin und Softwareentwicklerin mit über 5 Jahren Erfahrung in Softwareentwicklung, Geschäftsprozessanalyse, ERP-Systemen und SAP BI. Kompetent in C#, .NET Core und Vue.js, begeistere ich mich dafür, effiziente und skalierbare IT-Lösungen zu entwickeln.
 
 ## Ausbildung
-- **Masterabschluss in Computertechnik** (ohne Thesis), [Universitätsname], Türkei  
-- **Bachelorabschluss in Computertechnik**, [Universitätsname], Türkei
+- **Masterabschluss in Computertechnik** (ohne Thesis), [Yıldız Teknik Üniversitesi], Türkei  
+- **Bachelorabschluss in Computertechnik** 3,62 - 4.0 [Nişantaşı Üniversitesi], Türkei
 
 ## Berufserfahrung
 
@@ -59,5 +59,5 @@ Ich bin Systemanalystin und Softwareentwicklerin mit über 5 Jahren Erfahrung in
 - Geschäftsprozessanalyse
 
 ## Kontakt  
-- [LinkedIn](https://www.linkedin.com/in/zeynepbaran)  
+- [LinkedIn](https://www.linkedin.com/in/zeynep-baran-b7961a193/)  
 - E-Mail: zbaran@outlook.com.tr
