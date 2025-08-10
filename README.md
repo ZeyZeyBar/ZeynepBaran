@@ -21,9 +21,9 @@ I am a System Analyst and Software Developer with over 5 years of experience in 
 - Participated in business process analysis and ERP integration projects
 
 ## Technologies & Skills
-- Programming Languages: C#, .NET Core, JavaScript (Vue.js)  
+- Programming Languages: C#, Python, .NET Core, JavaScript (Vue.js)  
 - ERP & SAP BI  
-- Databases: PostgreSQL, SQL Server  
+- Databases: PostgreSQL, SQL Server, MongoDB  
 - Agile Methodologies  
 - Business Process Analysis
 
@@ -52,9 +52,9 @@ Ich bin Systemanalystin und Softwareentwicklerin mit über 5 Jahren Erfahrung in
 - Beteiligung an Geschäftsprozessanalyse und ERP-Integrationsprojekten
 
 ## Technologien & Fähigkeiten
-- Programmiersprachen: C#, .NET Core, JavaScript (Vue.js)  
+- Programmiersprachen: C#, Python, .NET Core, JavaScript (Vue.js)  
 - ERP & SAP BI  
-- Datenbanken: PostgreSQL, SQL Server  
+- Datenbanken: PostgreSQL, SQL Server, MongoDB  
 - Agile Methoden  
 - Geschäftsprozessanalyse
 
